@@ -20,6 +20,17 @@ import { errorHandler, notFound } from './middleware/errorHandler.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
+console.log('[debug] env check:', {
+  MONGODB_URI: process.env.MONGODB_URI ? 'set len=' + process.env.MONGODB_URI.length : 'MISSING',
+  GROQ_API_KEY: process.env.GROQ_API_KEY ? 'set len=' + process.env.GROQ_API_KEY.length : 'MISSING',
+  NODE_ENV: process.env.NODE_ENV || 'unset',
+  PORT: process.env.PORT || 'unset',
+  RAILWAY_KEYS: Object.keys(process.env).filter(k => k.startsWith('RAILWAY_')).slice(0, 8),
+  ALL_KEYS_COUNT: Object.keys(process.env).length,
+});
+
+
+
 const app = express();
 const PORT = process.env.PORT || 5000;
 
