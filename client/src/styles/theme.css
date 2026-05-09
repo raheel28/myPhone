@@ -1,0 +1,50 @@
+/* client/src/styles/theme.css
+   Modern dark theme with neon accents. CSS variables drive colors so
+   the optional dark/light toggle is a one-line attribute change.       */
+
+:root,
+[data-theme='dark'] {
+  --bg: #0b0d12;
+  --bg-alt: #11141b;
+  --bg-card: #161a23;
+  --bg-elevated: #1c2230;
+  --border: #232938;
+  --text: #e8ebf1;
+  --text-muted: #9aa3b6;
+  --text-faint: #6b7387;
+
+  --neon: #7c5cff;          /* primary purple */
+  --neon-2: #23d3a4;        /* mint accent */
+  --neon-3: #ff5cab;        /* pink accent */
+  --warn: #ffb547;
+  --danger: #ff5c5c;
+
+  --gradient-1: linear-gradient(135deg, #7c5cff 0%, #23d3a4 100%);
+  --gradient-2: linear-gradient(135deg, #ff5cab 0%, #7c5cff 100%);
+  --gradient-glow: radial-gradient(circle at 30% 20%, rgba(124, 92, 255, 0.35), transparent 60%),
+                   radial-gradient(circle at 80% 70%, rgba(35, 211, 164, 0.25), transparent 55%);
+
+  --shadow-md: 0 6px 24px rgba(0, 0, 0, 0.35);
+  --shadow-glow: 0 0 30px rgba(124, 92, 255, 0.35);
+  --radius-sm: 8px;
+  --radius: 14px;
+  --radius-lg: 22px;
+
+  --font-sans: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  --font-display: 'Space Grotesk', 'Inter', system-ui, sans-serif;
+}
+
+[data-theme='light'] {
+  --bg: #f5f6fb;
+  --bg-alt: #ffffff;
+  --bg-card: #ffffff;
+  --bg-elevated: #ffffff;
+  --border: #e3e6ef;
+  --text: #0e1220;
+  --text-muted: #535b73;
+  --text-faint: #8a90a3;
+  --shadow-md: 0 6px 24px rgba(20, 22, 40, 0.08);
+  --shadow-glow: 0 0 30px rgba(124, 92, 255, 0.18);
+  --gradient-glow: radial-gradient(circle at 30% 20%, rgba(124, 92, 255, 0.18), transparent 60%),
+                   radial-gradient(circle at 80% 70%, rgba(35, 211, 164, 0.12), transparent 55%);
+}

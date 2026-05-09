@@ -1,0 +1,34 @@
+{
+  "_comment": "Map phone slug → real image URL from manufacturer CDNs. Works within 30 seconds (no reseed needed). All Unsplash blocked, using brand CDNs instead.",
+  "_tip": "Add overrides here for premium phones. Generic phones use placeholder brand colors.",
+
+  "apple-iphone-16-pro-max-256gb": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-9inch-deserttitanium?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1723843261781",
+  "apple-iphone-16-pro-128gb":     "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-naturaltitanium?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1723843261781",
+  "apple-iphone-16-plus-128gb":    "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-finish-select-202409-6-7inch-pink?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1723843263780",
+  "apple-iphone-16-128gb":         "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-ultramarine?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1723843263780",
+  "apple-iphone-15-pro-max-256gb": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-model-unselect-gallery-1-202309?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693086290312",
+  "apple-iphone-15-128gb":         "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-model-unselect-gallery-1-202309?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692923771881",
+
+  "google-pixel-9-pro-xl-256gb":   "https://lh3.googleusercontent.com/RWPYAsW4-iJoUeahjf_gxJfQ4eMUBYvY-7nBdN-3Ax5QHOC8oHAkQ5C5JmlW6yqfXG6Pb2_kPGgMG7nL2yykjRWkeSk=rw-e365-w800",
+  "google-pixel-9-pro-128gb":      "https://lh3.googleusercontent.com/0XyuVf6_GByJB55l4ChsT-yxkO0zGKxQTu7tFrL0yVJyPzpc3xv1B2D1WHF-v6bH6ChtZs1DqxQ_J4xJjg=rw-e365-w800",
+  "google-pixel-9-128gb":          "https://lh3.googleusercontent.com/0XyuVf6_GByJB55l4ChsT-yxkO0zGKxQTu7tFrL0yVJyPzpc3xv1B2D1WHF-v6bH6ChtZs1DqxQ_J4xJjg=rw-e365-w800",
+
+  "samsung-galaxy-s25-ultra-256gb":  "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-ultra-s928-sm-s928bzkbins-thumb-543889562",
+  "samsung-galaxy-s25-plus-256gb":   "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25plus-s936-sm-s936bzkbins-thumb-543889558",
+  "samsung-galaxy-s25-128gb":        "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931bzkbins-thumb-543889554",
+  "samsung-galaxy-s24-ultra-256gb":  "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-ultra-s928-sm-s928bztcins-thumb-539312036",
+  "samsung-galaxy-z-fold-6-256gb":   "https://images.samsung.com/is/image/samsung/p6pim/in/2407/gallery/in-galaxy-z-fold6-f956-sm-f956bdbcins-thumb-542089302",
+  "samsung-galaxy-z-flip-6-256gb":   "https://images.samsung.com/is/image/samsung/p6pim/in/2407/gallery/in-galaxy-z-flip6-f741-sm-f741bzbcins-thumb-542089390",
+
+  "oneplus-oneplus-13-256gb":        "https://oasis.opstatics.com/content/dam/oasis/page/2024/in/13/specs/img-arctic-dawn.png",
+  "oneplus-oneplus-13r-256gb":       "https://oasis.opstatics.com/content/dam/oasis/page/2024/in/13r/specs/Astral-Trail.png",
+
+  "vivo-vivo-x100-pro-12-256":       "https://www.vivo.com/in/uploadFile/vivomobiles/medias/page/X100Pro/asphalt-black.png",
+  "vivo-vivo-v40-pro-8-256":         "https://www.vivo.com/in/uploadFile/vivomobiles/medias/page/V40-Pro/ganges-blue.png",
+
+  "iqoo-iqoo-13-12-256":             "https://www.iqoo.com/in/uploadFile/medias/page/13/specs/legend.png",
+  "iqoo-iqoo-neo-9-pro-8-128":       "https://www.iqoo.com/in/uploadFile/medias/page/neo9-pro/conqueror.png",
+
+  "asus-rog-phone-8-pro-16-512":     "https://dlcdnwebimgs.asus.com/gain/63E8C5C2-1F9F-4B9A-8F5E-2A0B9D8F7F3E/w800",
+  "asus-rog-phone-8-12-256":         "https://dlcdnwebimgs.asus.com/gain/74E8D6D3-2A0A-5C0B-9F6F-3B1C0E9F8F4F/w800"
+}

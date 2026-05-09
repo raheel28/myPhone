@@ -1,0 +1,67 @@
+[
+  {
+    "name": "New World Of Mobile - Satellite",
+    "address": "Shop 12, Iscon Mega Mall, Satellite Road",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": "380015",
+    "phone": "+91 91739 23453",
+    "email": "aircom.ahmedabad@gmail.com",
+    "hours": "10:00 AM - 9:30 PM, all days",
+    "lat": 23.0287,
+    "lng": 72.5067,
+    "services": ["Sales", "Service", "Trade-in", "Demo Zone"]
+  },
+  {
+    "name": "New World Of Mobile - Shyamal",
+    "address": "B129, 130 Popular Centre, Opp Brand Factory, Shyamal Cross Road",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": "380015",
+    "phone": "+91 91739 23453",
+    "email": "aircom.ahmedabad@gmail.com",
+    "hours": "10:00 AM - 9:30 PM, all days",
+    "lat": 23.0103,
+    "lng": 72.5236,
+    "services": ["Sales", "Service", "Trade-in", "EMI Counter"]
+  },
+  {
+    "name": "New World Of Mobile - Patan",
+    "address": "G-39/15, City Point, Near Railway Station Road, City Patan",
+    "city": "Patan",
+    "state": "Gujarat",
+    "pincode": "384265",
+    "phone": "+91 91739 23453",
+    "email": "aircom.ahmedabad@gmail.com",
+    "hours": "10:00 AM - 9:00 PM",
+    "lat": 23.8493,
+    "lng": 72.1264,
+    "services": ["Sales", "Service", "Accessories"]
+  },
+  {
+    "name": "New World Of Mobile - Mehsana",
+    "address": "Shop No GF/15, Someshwar Mall, Opp Central Bank of India, Modhera Road",
+    "city": "Mehsana",
+    "state": "Gujarat",
+    "pincode": "384002",
+    "phone": "+91 91739 23453",
+    "email": "aircom.ahmedabad@gmail.com",
+    "hours": "10:00 AM - 9:00 PM",
+    "lat": 23.5880,
+    "lng": 72.3693,
+    "services": ["Sales", "Service", "Trade-in"]
+  },
+  {
+    "name": "New World Of Mobile - Himmatnagar",
+    "address": "Shop No 3, Jyoti Chambers, Khadiya Char Rasta, Gandhi Road",
+    "city": "Himmatnagar",
+    "state": "Gujarat",
+    "pincode": "383001",
+    "phone": "+91 91739 23453",
+    "email": "aircom.ahmedabad@gmail.com",
+    "hours": "10:00 AM - 9:00 PM",
+    "lat": 23.5970,
+    "lng": 72.9648,
+    "services": ["Sales", "Service", "Accessories"]
+  }
+]

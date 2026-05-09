@@ -1,0 +1,33 @@
+{
+  "name": "phone-marketplace-server",
+  "version": "1.0.0",
+  "description": "Express + MongoDB backend for the phone marketplace, with a Groq-powered chatbot.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "seed": "node src/seed/seedPhones.js",
+    "seed:more": "node src/seed/addMorePhones.js",
+    "seed:branches": "node src/seed/seedBranches.js",
+    "dedupe": "node src/seed/dedupePhones.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "groq-sdk": "^1.1.2",
+    "helmet": "^7.1.0",
+    "mongoose": "^8.5.1",
+    "morgan": "^1.10.0",
+    "openai": "^6.37.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

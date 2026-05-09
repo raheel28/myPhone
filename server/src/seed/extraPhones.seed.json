@@ -1,0 +1,3966 @@
+[
+  {
+    "name": "iPhone 16 Pro Max 256GB",
+    "brand": "APPLE",
+    "slug": "apple-iphone-16-pro-max-256gb",
+    "price": 144900,
+    "mrp": 159390,
+    "ram": 8,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.9\" Super Retina XDR OLED",
+      "refreshRateHz": 120,
+      "cameraMP": 48,
+      "frontCameraMP": 12,
+      "batterymAh": 4685,
+      "fastChargingW": 25,
+      "processor": "A18 Pro",
+      "os": "iOS 18"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.8,
+    "inStock": true,
+    "tags": [
+      "featured",
+      "flagship"
+    ]
+  },
+  {
+    "name": "iPhone 16 Pro 128GB",
+    "brand": "APPLE",
+    "slug": "apple-iphone-16-pro-128gb",
+    "price": 119900,
+    "mrp": 131890,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.3\" Super Retina XDR OLED",
+      "refreshRateHz": 120,
+      "cameraMP": 48,
+      "frontCameraMP": 12,
+      "batterymAh": 3582,
+      "fastChargingW": 25,
+      "processor": "A18 Pro",
+      "os": "iOS 18"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.8,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "iPhone 16 Plus 128GB",
+    "brand": "APPLE",
+    "slug": "apple-iphone-16-plus-128gb",
+    "price": 89900,
+    "mrp": 98890,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.7\" Super Retina XDR OLED",
+      "refreshRateHz": 60,
+      "cameraMP": 48,
+      "frontCameraMP": 12,
+      "batterymAh": 4674,
+      "fastChargingW": 25,
+      "processor": "A18",
+      "os": "iOS 18"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.6,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "iPhone 16 128GB",
+    "brand": "APPLE",
+    "slug": "apple-iphone-16-128gb",
+    "price": 79900,
+    "mrp": 87890,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.1\" Super Retina XDR OLED",
+      "refreshRateHz": 60,
+      "cameraMP": 48,
+      "frontCameraMP": 12,
+      "batterymAh": 3561,
+      "fastChargingW": 25,
+      "processor": "A18",
+      "os": "iOS 18"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.6,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "iPhone 15 Pro Max 256GB",
+    "brand": "APPLE",
+    "slug": "apple-iphone-15-pro-max-256gb",
+    "price": 134900,
+    "mrp": 148390,
+    "ram": 8,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.7\" Super Retina XDR OLED",
+      "refreshRateHz": 120,
+      "cameraMP": 48,
+      "frontCameraMP": 12,
+      "batterymAh": 4422,
+      "fastChargingW": 27,
+      "processor": "A17 Pro",
+      "os": "iOS 18"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.8,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "iPhone 15 128GB",
+    "brand": "APPLE",
+    "slug": "apple-iphone-15-128gb",
+    "price": 69900,
+    "mrp": 76890,
+    "ram": 6,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.1\" Super Retina XDR OLED",
+      "refreshRateHz": 60,
+      "cameraMP": 48,
+      "frontCameraMP": 12,
+      "batterymAh": 3349,
+      "fastChargingW": 20,
+      "processor": "A16 Bionic",
+      "os": "iOS 18"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.5,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "iPhone 14 128GB",
+    "brand": "APPLE",
+    "slug": "apple-iphone-14-128gb",
+    "price": 59900,
+    "mrp": 65890,
+    "ram": 6,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.1\" Super Retina XDR OLED",
+      "refreshRateHz": 60,
+      "cameraMP": 12,
+      "frontCameraMP": 12,
+      "batterymAh": 3279,
+      "fastChargingW": 20,
+      "processor": "A15 Bionic",
+      "os": "iOS 18"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.5,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "iPhone SE 3 64GB",
+    "brand": "APPLE",
+    "slug": "apple-iphone-se-3-64gb",
+    "price": 49900,
+    "mrp": 54890,
+    "ram": 4,
+    "storage": 64,
+    "is5G": false,
+    "specs": {
+      "display": "4.7\" Retina HD LCD",
+      "refreshRateHz": 60,
+      "cameraMP": 12,
+      "frontCameraMP": 7,
+      "batterymAh": 2018,
+      "fastChargingW": 20,
+      "processor": "A15 Bionic",
+      "os": "iOS 18"
+    },
+    "image": "",
+    "useCases": [
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Pixel 9 Pro XL 256GB",
+    "brand": "GOOGLE",
+    "slug": "google-pixel-9-pro-xl-256gb",
+    "price": 124999,
+    "mrp": 137499,
+    "ram": 16,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.8\" LTPO OLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 42,
+      "batterymAh": 5060,
+      "fastChargingW": 37,
+      "processor": "Tensor G4",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.8,
+    "inStock": true,
+    "tags": [
+      "featured",
+      "flagship"
+    ]
+  },
+  {
+    "name": "Pixel 9 Pro 128GB",
+    "brand": "GOOGLE",
+    "slug": "google-pixel-9-pro-128gb",
+    "price": 109999,
+    "mrp": 120999,
+    "ram": 16,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.3\" LTPO OLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 42,
+      "batterymAh": 4700,
+      "fastChargingW": 27,
+      "processor": "Tensor G4",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.7,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "Pixel 9 128GB",
+    "brand": "GOOGLE",
+    "slug": "google-pixel-9-128gb",
+    "price": 79999,
+    "mrp": 87999,
+    "ram": 12,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.3\" Actua OLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 10,
+      "batterymAh": 4700,
+      "fastChargingW": 27,
+      "processor": "Tensor G4",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.6,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "Pixel 8a 128GB",
+    "brand": "GOOGLE",
+    "slug": "google-pixel-8a-128gb",
+    "price": 52999,
+    "mrp": 58299,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.1\" Actua OLED",
+      "refreshRateHz": 120,
+      "cameraMP": 64,
+      "frontCameraMP": 13,
+      "batterymAh": 4492,
+      "fastChargingW": 18,
+      "processor": "Tensor G3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.5,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Pixel 8 Pro 256GB",
+    "brand": "GOOGLE",
+    "slug": "google-pixel-8-pro-256gb",
+    "price": 84999,
+    "mrp": 93499,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.7\" LTPO OLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 10,
+      "batterymAh": 5050,
+      "fastChargingW": 30,
+      "processor": "Tensor G3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.6,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Galaxy S25 Ultra 256GB",
+    "brand": "SAMSUNG",
+    "slug": "samsung-galaxy-s25-ultra-256gb",
+    "price": 129999,
+    "mrp": 142999,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.9\" Dynamic AMOLED 2X",
+      "refreshRateHz": 120,
+      "cameraMP": 200,
+      "frontCameraMP": 12,
+      "batterymAh": 5000,
+      "fastChargingW": 45,
+      "processor": "Snapdragon 8 Elite for Galaxy",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.8,
+    "inStock": true,
+    "tags": [
+      "featured",
+      "flagship"
+    ]
+  },
+  {
+    "name": "Galaxy S25 Plus 256GB",
+    "brand": "SAMSUNG",
+    "slug": "samsung-galaxy-s25-plus-256gb",
+    "price": 99999,
+    "mrp": 109999,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.7\" Dynamic AMOLED 2X",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 12,
+      "batterymAh": 4900,
+      "fastChargingW": 45,
+      "processor": "Snapdragon 8 Elite for Galaxy",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.7,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "Galaxy S25 128GB",
+    "brand": "SAMSUNG",
+    "slug": "samsung-galaxy-s25-128gb",
+    "price": 74999,
+    "mrp": 82499,
+    "ram": 12,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.2\" Dynamic AMOLED 2X",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 12,
+      "batterymAh": 4000,
+      "fastChargingW": 25,
+      "processor": "Snapdragon 8 Elite for Galaxy",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.6,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "Galaxy S24 Ultra 256GB",
+    "brand": "SAMSUNG",
+    "slug": "samsung-galaxy-s24-ultra-256gb",
+    "price": 109999,
+    "mrp": 120999,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.8\" Dynamic AMOLED 2X",
+      "refreshRateHz": 120,
+      "cameraMP": 200,
+      "frontCameraMP": 12,
+      "batterymAh": 5000,
+      "fastChargingW": 45,
+      "processor": "Snapdragon 8 Gen 3 for Galaxy",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.7,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "Galaxy Z Fold 6 256GB",
+    "brand": "SAMSUNG",
+    "slug": "samsung-galaxy-z-fold-6-256gb",
+    "price": 164999,
+    "mrp": 181499,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "7.6\" Foldable Dynamic AMOLED 2X",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 10,
+      "batterymAh": 4400,
+      "fastChargingW": 25,
+      "processor": "Snapdragon 8 Gen 3 for Galaxy",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.8,
+    "inStock": true,
+    "tags": [
+      "featured",
+      "flagship"
+    ]
+  },
+  {
+    "name": "Galaxy Z Flip 6 256GB",
+    "brand": "SAMSUNG",
+    "slug": "samsung-galaxy-z-flip-6-256gb",
+    "price": 109999,
+    "mrp": 120999,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.7\" Foldable Dynamic AMOLED 2X",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 10,
+      "batterymAh": 4000,
+      "fastChargingW": 25,
+      "processor": "Snapdragon 8 Gen 3 for Galaxy",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.7,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "OnePlus 13 256GB",
+    "brand": "ONEPLUS",
+    "slug": "oneplus-oneplus-13-256gb",
+    "price": 69999,
+    "mrp": 76999,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.82\" LTPO AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 32,
+      "batterymAh": 6000,
+      "fastChargingW": 100,
+      "processor": "Snapdragon 8 Elite",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.5,
+    "inStock": true,
+    "tags": [
+      "featured",
+      "flagship"
+    ]
+  },
+  {
+    "name": "OnePlus 13R 256GB",
+    "brand": "ONEPLUS",
+    "slug": "oneplus-oneplus-13r-256gb",
+    "price": 42999,
+    "mrp": 47299,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 16,
+      "batterymAh": 6000,
+      "fastChargingW": 80,
+      "processor": "Snapdragon 8 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "OnePlus Open 512GB",
+    "brand": "ONEPLUS",
+    "slug": "oneplus-oneplus-open-512gb",
+    "price": 139999,
+    "mrp": 153999,
+    "ram": 16,
+    "storage": 512,
+    "is5G": true,
+    "specs": {
+      "display": "7.82\" Foldable LTPO AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 48,
+      "frontCameraMP": 20,
+      "batterymAh": 4805,
+      "fastChargingW": 67,
+      "processor": "Snapdragon 8 Gen 2",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.8,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "vivo X100 Pro 12+256",
+    "brand": "VIVO",
+    "slug": "vivo-vivo-x100-pro-12-256",
+    "price": 89999,
+    "mrp": 98999,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" AMOLED LTPO",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 32,
+      "batterymAh": 5400,
+      "fastChargingW": 100,
+      "processor": "Dimensity 9300",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.6,
+    "inStock": true,
+    "tags": [
+      "featured",
+      "flagship"
+    ]
+  },
+  {
+    "name": "vivo X100 12+256",
+    "brand": "VIVO",
+    "slug": "vivo-vivo-x100-12-256",
+    "price": 63999,
+    "mrp": 70399,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 64,
+      "frontCameraMP": 32,
+      "batterymAh": 5000,
+      "fastChargingW": 120,
+      "processor": "Dimensity 9300",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.5,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "vivo V40 Pro 8+256",
+    "brand": "VIVO",
+    "slug": "vivo-vivo-v40-pro-8-256",
+    "price": 49999,
+    "mrp": 54999,
+    "ram": 8,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 50,
+      "batterymAh": 5500,
+      "fastChargingW": 80,
+      "processor": "Dimensity 9200+",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "vivo V40 8+128",
+    "brand": "VIVO",
+    "slug": "vivo-vivo-v40-8-128",
+    "price": 34999,
+    "mrp": 38499,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 50,
+      "batterymAh": 5500,
+      "fastChargingW": 80,
+      "processor": "Snapdragon 7 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "vivo Y200 Pro 8+128",
+    "brand": "VIVO",
+    "slug": "vivo-vivo-y200-pro-8-128",
+    "price": 24999,
+    "mrp": 27499,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.77\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 16,
+      "batterymAh": 5000,
+      "fastChargingW": 44,
+      "processor": "Snapdragon 695",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "iQOO 13 12+256",
+    "brand": "IQOO",
+    "slug": "iqoo-iqoo-13-12-256",
+    "price": 54999,
+    "mrp": 60499,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.82\" AMOLED LTPO",
+      "refreshRateHz": 144,
+      "cameraMP": 50,
+      "frontCameraMP": 32,
+      "batterymAh": 6150,
+      "fastChargingW": 120,
+      "processor": "Snapdragon 8 Elite",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.5,
+    "inStock": true,
+    "tags": [
+      "featured",
+      "flagship"
+    ]
+  },
+  {
+    "name": "iQOO Neo 9 Pro 8+128",
+    "brand": "IQOO",
+    "slug": "iqoo-iqoo-neo-9-pro-8-128",
+    "price": 35999,
+    "mrp": 39599,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 144,
+      "cameraMP": 50,
+      "frontCameraMP": 16,
+      "batterymAh": 5160,
+      "fastChargingW": 120,
+      "processor": "Snapdragon 8 Gen 2",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "iQOO 12 12+256",
+    "brand": "IQOO",
+    "slug": "iqoo-iqoo-12-12-256",
+    "price": 52999,
+    "mrp": 58299,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 144,
+      "cameraMP": 50,
+      "frontCameraMP": 16,
+      "batterymAh": 5000,
+      "fastChargingW": 120,
+      "processor": "Snapdragon 8 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.5,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "ROG Phone 8 Pro 16+512",
+    "brand": "ASUS",
+    "slug": "asus-rog-phone-8-pro-16-512",
+    "price": 109999,
+    "mrp": 120999,
+    "ram": 16,
+    "storage": 512,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" LTPO AMOLED",
+      "refreshRateHz": 165,
+      "cameraMP": 50,
+      "frontCameraMP": 32,
+      "batterymAh": 5500,
+      "fastChargingW": 65,
+      "processor": "Snapdragon 8 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.7,
+    "inStock": true,
+    "tags": [
+      "featured",
+      "flagship"
+    ]
+  },
+  {
+    "name": "ROG Phone 8 12+256",
+    "brand": "ASUS",
+    "slug": "asus-rog-phone-8-12-256",
+    "price": 79999,
+    "mrp": 87999,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 165,
+      "cameraMP": 50,
+      "frontCameraMP": 32,
+      "batterymAh": 5500,
+      "fastChargingW": 65,
+      "processor": "Snapdragon 8 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.6,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "iPhone 13 128GB",
+    "brand": "APPLE",
+    "slug": "apple-iphone-13-128gb",
+    "price": 54900,
+    "mrp": 60390,
+    "ram": 4,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.1\" Super Retina XDR OLED",
+      "refreshRateHz": 60,
+      "cameraMP": 12,
+      "frontCameraMP": 12,
+      "batterymAh": 3240,
+      "fastChargingW": 20,
+      "processor": "A15 Bionic",
+      "os": "iOS 18"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.5,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "iPhone 12 128GB",
+    "brand": "APPLE",
+    "slug": "apple-iphone-12-128gb",
+    "price": 49900,
+    "mrp": 54890,
+    "ram": 4,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.1\" Super Retina XDR OLED",
+      "refreshRateHz": 60,
+      "cameraMP": 12,
+      "frontCameraMP": 12,
+      "batterymAh": 2815,
+      "fastChargingW": 20,
+      "processor": "A14 Bionic",
+      "os": "iOS 18"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "iPhone 11 128GB",
+    "brand": "APPLE",
+    "slug": "apple-iphone-11-128gb",
+    "price": 39900,
+    "mrp": 43890,
+    "ram": 4,
+    "storage": 128,
+    "is5G": false,
+    "specs": {
+      "display": "6.1\" Liquid Retina HD LCD",
+      "refreshRateHz": 60,
+      "cameraMP": 12,
+      "frontCameraMP": 7,
+      "batterymAh": 3110,
+      "fastChargingW": 18,
+      "processor": "A13 Bionic",
+      "os": "iOS 18"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "iPhone SE 2 64GB",
+    "brand": "APPLE",
+    "slug": "apple-iphone-se-2-64gb",
+    "price": 29900,
+    "mrp": 32890,
+    "ram": 3,
+    "storage": 64,
+    "is5G": false,
+    "specs": {
+      "display": "4.7\" Retina HD LCD",
+      "refreshRateHz": 60,
+      "cameraMP": 12,
+      "frontCameraMP": 7,
+      "batterymAh": 1821,
+      "fastChargingW": 18,
+      "processor": "A13 Bionic",
+      "os": "iOS 18"
+    },
+    "image": "",
+    "useCases": [
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Pixel 7a 128GB",
+    "brand": "GOOGLE",
+    "slug": "google-pixel-7a-128gb",
+    "price": 39999,
+    "mrp": 43999,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.1\" OLED",
+      "refreshRateHz": 90,
+      "cameraMP": 64,
+      "frontCameraMP": 13,
+      "batterymAh": 4385,
+      "fastChargingW": 18,
+      "processor": "Tensor G2",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Pixel 7 128GB",
+    "brand": "GOOGLE",
+    "slug": "google-pixel-7-128gb",
+    "price": 49999,
+    "mrp": 54999,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.3\" AMOLED",
+      "refreshRateHz": 90,
+      "cameraMP": 50,
+      "frontCameraMP": 10,
+      "batterymAh": 4355,
+      "fastChargingW": 20,
+      "processor": "Tensor G2",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Pixel 6a 128GB",
+    "brand": "GOOGLE",
+    "slug": "google-pixel-6a-128gb",
+    "price": 29999,
+    "mrp": 32999,
+    "ram": 6,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.1\" OLED",
+      "refreshRateHz": 60,
+      "cameraMP": 12,
+      "frontCameraMP": 8,
+      "batterymAh": 4410,
+      "fastChargingW": 18,
+      "processor": "Tensor",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "OnePlus 12R 8+128",
+    "brand": "ONEPLUS",
+    "slug": "oneplus-oneplus-12r-8-128",
+    "price": 39999,
+    "mrp": 43999,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 16,
+      "batterymAh": 5500,
+      "fastChargingW": 100,
+      "processor": "Snapdragon 8 Gen 2",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "OnePlus 11 16+256",
+    "brand": "ONEPLUS",
+    "slug": "oneplus-oneplus-11-16-256",
+    "price": 56999,
+    "mrp": 62699,
+    "ram": 16,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.7\" LTPO AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 16,
+      "batterymAh": 5000,
+      "fastChargingW": 100,
+      "processor": "Snapdragon 8 Gen 2",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.5,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "OnePlus Nord 4 8+128",
+    "brand": "ONEPLUS",
+    "slug": "oneplus-oneplus-nord-4-8-128",
+    "price": 29999,
+    "mrp": 32999,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.74\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 16,
+      "batterymAh": 5500,
+      "fastChargingW": 100,
+      "processor": "Snapdragon 7+ Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Galaxy A55 5G 8+128",
+    "brand": "SAMSUNG",
+    "slug": "samsung-galaxy-a55-5g-8-128",
+    "price": 39999,
+    "mrp": 43999,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.6\" Super AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 32,
+      "batterymAh": 5000,
+      "fastChargingW": 25,
+      "processor": "Exynos 1480",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "Galaxy A35 5G 8+128",
+    "brand": "SAMSUNG",
+    "slug": "samsung-galaxy-a35-5g-8-128",
+    "price": 30999,
+    "mrp": 34099,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.6\" Super AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 13,
+      "batterymAh": 5000,
+      "fastChargingW": 25,
+      "processor": "Exynos 1380",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Galaxy A15 5G 6+128",
+    "brand": "SAMSUNG",
+    "slug": "samsung-galaxy-a15-5g-6-128",
+    "price": 16499,
+    "mrp": 18149,
+    "ram": 6,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.5\" Super AMOLED",
+      "refreshRateHz": 90,
+      "cameraMP": 50,
+      "frontCameraMP": 13,
+      "batterymAh": 5000,
+      "fastChargingW": 25,
+      "processor": "Dimensity 6100+",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Galaxy M55 5G 8+128",
+    "brand": "SAMSUNG",
+    "slug": "samsung-galaxy-m55-5g-8-128",
+    "price": 26999,
+    "mrp": 29699,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.7\" Super AMOLED+",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 50,
+      "batterymAh": 5000,
+      "fastChargingW": 45,
+      "processor": "Snapdragon 7 Gen 1",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Galaxy Note 20 Ultra 12+256",
+    "brand": "SAMSUNG",
+    "slug": "samsung-galaxy-note-20-ultra-12-256",
+    "price": 54999,
+    "mrp": 60499,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.9\" Dynamic AMOLED 2X",
+      "refreshRateHz": 120,
+      "cameraMP": 108,
+      "frontCameraMP": 10,
+      "batterymAh": 4500,
+      "fastChargingW": 25,
+      "processor": "Exynos 990",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.5,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "Realme GT 7 Pro 12+256",
+    "brand": "REALME",
+    "slug": "realme-realme-gt-7-pro-12-256",
+    "price": 59999,
+    "mrp": 65999,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" LTPO AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 16,
+      "batterymAh": 6500,
+      "fastChargingW": 120,
+      "processor": "Snapdragon 8 Elite",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.5,
+    "inStock": true,
+    "tags": [
+      "featured",
+      "flagship"
+    ]
+  },
+  {
+    "name": "Realme GT 6 8+256",
+    "brand": "REALME",
+    "slug": "realme-realme-gt-6-8-256",
+    "price": 40999,
+    "mrp": 45099,
+    "ram": 8,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 32,
+      "batterymAh": 5500,
+      "fastChargingW": 120,
+      "processor": "Snapdragon 8s Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "Realme P1 Pro 8+128",
+    "brand": "REALME",
+    "slug": "realme-realme-p1-pro-8-128",
+    "price": 21999,
+    "mrp": 24199,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.7\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 16,
+      "batterymAh": 5000,
+      "fastChargingW": 45,
+      "processor": "Snapdragon 6 Gen 1",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "vivo T3 Pro 5G 8+128",
+    "brand": "VIVO",
+    "slug": "vivo-vivo-t3-pro-5g-8-128",
+    "price": 24999,
+    "mrp": 27499,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.77\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 16,
+      "batterymAh": 5500,
+      "fastChargingW": 80,
+      "processor": "Snapdragon 7 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "vivo T3 5G 8+128",
+    "brand": "VIVO",
+    "slug": "vivo-vivo-t3-5g-8-128",
+    "price": 17999,
+    "mrp": 19799,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.67\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 8,
+      "batterymAh": 5000,
+      "fastChargingW": 44,
+      "processor": "Dimensity 7200",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "vivo Y28 5G 6+128",
+    "brand": "VIVO",
+    "slug": "vivo-vivo-y28-5g-6-128",
+    "price": 16499,
+    "mrp": 18149,
+    "ram": 6,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.68\" LCD",
+      "refreshRateHz": 90,
+      "cameraMP": 50,
+      "frontCameraMP": 8,
+      "batterymAh": 6000,
+      "fastChargingW": 15,
+      "processor": "Dimensity 6020",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "iQOO Z9 Pro 8+128",
+    "brand": "IQOO",
+    "slug": "iqoo-iqoo-z9-pro-8-128",
+    "price": 26999,
+    "mrp": 29699,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.77\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 16,
+      "batterymAh": 5500,
+      "fastChargingW": 80,
+      "processor": "Snapdragon 7 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "iQOO Z9 5G 8+128",
+    "brand": "IQOO",
+    "slug": "iqoo-iqoo-z9-5g-8-128",
+    "price": 19999,
+    "mrp": 21999,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.67\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 16,
+      "batterymAh": 6000,
+      "fastChargingW": 44,
+      "processor": "Dimensity 7200",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "iQOO Z7 5G 6+128",
+    "brand": "IQOO",
+    "slug": "iqoo-iqoo-z7-5g-6-128",
+    "price": 16999,
+    "mrp": 18699,
+    "ram": 6,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.38\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 64,
+      "frontCameraMP": 16,
+      "batterymAh": 5000,
+      "fastChargingW": 44,
+      "processor": "Dimensity 920",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Xiaomi 14 Ultra 16+512",
+    "brand": "XIAOMI",
+    "slug": "xiaomi-xiaomi-14-ultra-16-512",
+    "price": 99999,
+    "mrp": 109999,
+    "ram": 16,
+    "storage": 512,
+    "is5G": true,
+    "specs": {
+      "display": "6.73\" LTPO AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 32,
+      "batterymAh": 5300,
+      "fastChargingW": 90,
+      "processor": "Snapdragon 8 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.7,
+    "inStock": true,
+    "tags": [
+      "featured",
+      "flagship"
+    ]
+  },
+  {
+    "name": "Xiaomi 14 12+256",
+    "brand": "XIAOMI",
+    "slug": "xiaomi-xiaomi-14-12-256",
+    "price": 64999,
+    "mrp": 71499,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.36\" LTPO AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 32,
+      "batterymAh": 4610,
+      "fastChargingW": 90,
+      "processor": "Snapdragon 8 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.5,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "Xiaomi Mix Fold 4 16+512",
+    "brand": "XIAOMI",
+    "slug": "xiaomi-xiaomi-mix-fold-4-16-512",
+    "price": 179999,
+    "mrp": 197999,
+    "ram": 16,
+    "storage": 512,
+    "is5G": true,
+    "specs": {
+      "display": "7.98\" Foldable LTPO AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 32,
+      "batterymAh": 5100,
+      "fastChargingW": 67,
+      "processor": "Snapdragon 8 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.8,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "Xiaomi Mix Flip 12+256",
+    "brand": "XIAOMI",
+    "slug": "xiaomi-xiaomi-mix-flip-12-256",
+    "price": 99999,
+    "mrp": 109999,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.86\" Foldable AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 32,
+      "batterymAh": 4780,
+      "fastChargingW": 67,
+      "processor": "Snapdragon 8 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.7,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "Xiaomi 13T Pro 12+256",
+    "brand": "XIAOMI",
+    "slug": "xiaomi-xiaomi-13t-pro-12-256",
+    "price": 49999,
+    "mrp": 54999,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.67\" AMOLED",
+      "refreshRateHz": 144,
+      "cameraMP": 50,
+      "frontCameraMP": 20,
+      "batterymAh": 5000,
+      "fastChargingW": 120,
+      "processor": "Dimensity 9200+",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Honor 200 Pro 12+512",
+    "brand": "HONOR",
+    "slug": "honor-honor-200-pro-12-512",
+    "price": 57999,
+    "mrp": 63799,
+    "ram": 12,
+    "storage": 512,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" LTPO AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 50,
+      "batterymAh": 5200,
+      "fastChargingW": 100,
+      "processor": "Snapdragon 8s Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.5,
+    "inStock": true,
+    "tags": [
+      "featured",
+      "flagship"
+    ]
+  },
+  {
+    "name": "Honor 200 8+256",
+    "brand": "HONOR",
+    "slug": "honor-honor-200-8-256",
+    "price": 34999,
+    "mrp": 38499,
+    "ram": 8,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.7\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 50,
+      "batterymAh": 5200,
+      "fastChargingW": 100,
+      "processor": "Snapdragon 7 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "Honor X9b 8+128",
+    "brand": "HONOR",
+    "slug": "honor-honor-x9b-8-128",
+    "price": 19999,
+    "mrp": 21999,
+    "ram": 8,
+    "storage": 128,
+    "is5G": false,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 108,
+      "frontCameraMP": 16,
+      "batterymAh": 5800,
+      "fastChargingW": 35,
+      "processor": "Snapdragon 6 Gen 1",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Honor Magic 6 Pro 12+512",
+    "brand": "HONOR",
+    "slug": "honor-honor-magic-6-pro-12-512",
+    "price": 89999,
+    "mrp": 98999,
+    "ram": 12,
+    "storage": 512,
+    "is5G": true,
+    "specs": {
+      "display": "6.8\" LTPO OLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 50,
+      "batterymAh": 5600,
+      "fastChargingW": 80,
+      "processor": "Snapdragon 8 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.6,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "Honor 90 8+256",
+    "brand": "HONOR",
+    "slug": "honor-honor-90-8-256",
+    "price": 29999,
+    "mrp": 32999,
+    "ram": 8,
+    "storage": 256,
+    "is5G": false,
+    "specs": {
+      "display": "6.7\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 200,
+      "frontCameraMP": 50,
+      "batterymAh": 5000,
+      "fastChargingW": 66,
+      "processor": "Snapdragon 7 Gen 1",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Honor X7c 8+128",
+    "brand": "HONOR",
+    "slug": "honor-honor-x7c-8-128",
+    "price": 13999,
+    "mrp": 15399,
+    "ram": 8,
+    "storage": 128,
+    "is5G": false,
+    "specs": {
+      "display": "6.78\" LCD",
+      "refreshRateHz": 90,
+      "cameraMP": 108,
+      "frontCameraMP": 8,
+      "batterymAh": 6000,
+      "fastChargingW": 35,
+      "processor": "Snapdragon 685",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Infinix Note 40 Pro+ 5G 12+256",
+    "brand": "INFINIX",
+    "slug": "infinix-infinix-note-40-pro-5g-12-256",
+    "price": 24999,
+    "mrp": 27499,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 108,
+      "frontCameraMP": 32,
+      "batterymAh": 4600,
+      "fastChargingW": 100,
+      "processor": "Dimensity 7020",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "name": "Infinix Note 40 Pro 8+256",
+    "brand": "INFINIX",
+    "slug": "infinix-infinix-note-40-pro-8-256",
+    "price": 19999,
+    "mrp": 21999,
+    "ram": 8,
+    "storage": 256,
+    "is5G": false,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 108,
+      "frontCameraMP": 32,
+      "batterymAh": 5000,
+      "fastChargingW": 70,
+      "processor": "Helio G99 Ultimate",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Infinix Zero 40 5G 8+256",
+    "brand": "INFINIX",
+    "slug": "infinix-infinix-zero-40-5g-8-256",
+    "price": 26999,
+    "mrp": 29699,
+    "ram": 8,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 144,
+      "cameraMP": 108,
+      "frontCameraMP": 50,
+      "batterymAh": 5000,
+      "fastChargingW": 45,
+      "processor": "Dimensity 8200",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Infinix Hot 50 Pro 8+128",
+    "brand": "INFINIX",
+    "slug": "infinix-infinix-hot-50-pro-8-128",
+    "price": 12999,
+    "mrp": 14299,
+    "ram": 8,
+    "storage": 128,
+    "is5G": false,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 8,
+      "batterymAh": 5000,
+      "fastChargingW": 33,
+      "processor": "Helio G100",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Infinix Smart 9 HD 4+64",
+    "brand": "INFINIX",
+    "slug": "infinix-infinix-smart-9-hd-4-64",
+    "price": 6499,
+    "mrp": 7149,
+    "ram": 4,
+    "storage": 64,
+    "is5G": false,
+    "specs": {
+      "display": "6.7\" HD+ LCD",
+      "refreshRateHz": 90,
+      "cameraMP": 13,
+      "frontCameraMP": 5,
+      "batterymAh": 5000,
+      "fastChargingW": 10,
+      "processor": "Unisoc T606",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily"
+    ],
+    "offers": [],
+    "rating": 4.2,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Lava Agni 3 8+128",
+    "brand": "LAVA",
+    "slug": "lava-lava-agni-3-8-128",
+    "price": 21999,
+    "mrp": 24199,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 16,
+      "batterymAh": 5000,
+      "fastChargingW": 66,
+      "processor": "Dimensity 7300X",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Lava Blaze Curve 5G 8+128",
+    "brand": "LAVA",
+    "slug": "lava-lava-blaze-curve-5g-8-128",
+    "price": 17999,
+    "mrp": 19799,
+    "ram": 8,
+    "storage": 128,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 64,
+      "frontCameraMP": 16,
+      "batterymAh": 5000,
+      "fastChargingW": 33,
+      "processor": "Dimensity 7050",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Lava Yuva 3 Pro 4+64",
+    "brand": "LAVA",
+    "slug": "lava-lava-yuva-3-pro-4-64",
+    "price": 7999,
+    "mrp": 8799,
+    "ram": 4,
+    "storage": 64,
+    "is5G": false,
+    "specs": {
+      "display": "6.5\" HD+ LCD",
+      "refreshRateHz": 90,
+      "cameraMP": 50,
+      "frontCameraMP": 5,
+      "batterymAh": 5000,
+      "fastChargingW": 10,
+      "processor": "Unisoc T606",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily"
+    ],
+    "offers": [],
+    "rating": 4.2,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "itel S25 Ultra 8+256",
+    "brand": "ITEL",
+    "slug": "itel-itel-s25-ultra-8-256",
+    "price": 15999,
+    "mrp": 17599,
+    "ram": 8,
+    "storage": 256,
+    "is5G": false,
+    "specs": {
+      "display": "6.78\" AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 8,
+      "batterymAh": 5000,
+      "fastChargingW": 18,
+      "processor": "Helio G91",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      }
+    ],
+    "rating": 4.3,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "itel A70 4+128",
+    "brand": "ITEL",
+    "slug": "itel-itel-a70-4-128",
+    "price": 6799,
+    "mrp": 7479,
+    "ram": 4,
+    "storage": 128,
+    "is5G": false,
+    "specs": {
+      "display": "6.6\" HD+ LCD",
+      "refreshRateHz": 90,
+      "cameraMP": 13,
+      "frontCameraMP": 8,
+      "batterymAh": 5000,
+      "fastChargingW": 10,
+      "processor": "Unisoc T603",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily"
+    ],
+    "offers": [],
+    "rating": 4.2,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "itel A05s 2+64",
+    "brand": "ITEL",
+    "slug": "itel-itel-a05s-2-64",
+    "price": 5499,
+    "mrp": 6049,
+    "ram": 2,
+    "storage": 64,
+    "is5G": false,
+    "specs": {
+      "display": "6.6\" HD+ LCD",
+      "refreshRateHz": 60,
+      "cameraMP": 5,
+      "frontCameraMP": 5,
+      "batterymAh": 4000,
+      "fastChargingW": 10,
+      "processor": "Unisoc T603",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "daily"
+    ],
+    "offers": [],
+    "rating": 4.2,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Tecno Phantom V Fold 2 12+512",
+    "brand": "TECNO",
+    "slug": "tecno-tecno-phantom-v-fold-2-12-512",
+    "price": 89999,
+    "mrp": 98999,
+    "ram": 12,
+    "storage": 512,
+    "is5G": true,
+    "specs": {
+      "display": "7.85\" Foldable LTPO AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 32,
+      "batterymAh": 5750,
+      "fastChargingW": 70,
+      "processor": "Dimensity 9000+",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.6,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "Tecno Phantom X2 Pro 8+256",
+    "brand": "TECNO",
+    "slug": "tecno-tecno-phantom-x2-pro-8-256",
+    "price": 49999,
+    "mrp": 54999,
+    "ram": 8,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.8\" LTPO AMOLED",
+      "refreshRateHz": 120,
+      "cameraMP": 50,
+      "frontCameraMP": 32,
+      "batterymAh": 5160,
+      "fastChargingW": 45,
+      "processor": "Dimensity 9000",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "daily"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.4,
+    "inStock": true,
+    "tags": []
+  },
+  {
+    "name": "Sony Xperia 1 VI 12+256",
+    "brand": "SONY",
+    "slug": "sony-sony-xperia-1-vi-12-256",
+    "price": 129990,
+    "mrp": 142989,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.5\" 4K OLED",
+      "refreshRateHz": 120,
+      "cameraMP": 48,
+      "frontCameraMP": 12,
+      "batterymAh": 5000,
+      "fastChargingW": 30,
+      "processor": "Snapdragon 8 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming",
+      "photography"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.8,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  },
+  {
+    "name": "Asus Zenfone 11 Ultra 12+256",
+    "brand": "ASUS",
+    "slug": "asus-asus-zenfone-11-ultra-12-256",
+    "price": 89990,
+    "mrp": 98989,
+    "ram": 12,
+    "storage": 256,
+    "is5G": true,
+    "specs": {
+      "display": "6.78\" LTPO AMOLED",
+      "refreshRateHz": 144,
+      "cameraMP": 50,
+      "frontCameraMP": 32,
+      "batterymAh": 5500,
+      "fastChargingW": 65,
+      "processor": "Snapdragon 8 Gen 3",
+      "os": "Android 14"
+    },
+    "image": "",
+    "useCases": [
+      "camera",
+      "gaming"
+    ],
+    "offers": [
+      {
+        "type": "card",
+        "bank": "HDFC",
+        "description": "Get up to Rs 3000 instant discount on HDFC Bank Credit Cards & EMI",
+        "discount": 3000
+      },
+      {
+        "type": "card",
+        "bank": "ICICI",
+        "description": "10% off up to Rs 5000 on ICICI Bank Credit Card EMI",
+        "discount": 5000
+      },
+      {
+        "type": "exchange",
+        "description": "Exchange your old phone and save up to Rs 5000",
+        "discount": 5000
+      },
+      {
+        "type": "noCostEMI",
+        "description": "No Cost EMI for 6 / 9 / 12 / 18 months"
+      }
+    ],
+    "rating": 4.6,
+    "inStock": true,
+    "tags": [
+      "flagship"
+    ]
+  }
+]

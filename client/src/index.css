@@ -1,0 +1,130 @@
+/* client/src/index.css — base + reusable utility classes */
+
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a { color: inherit; text-decoration: none; }
+button { font-family: inherit; cursor: pointer; }
+img { max-width: 100%; display: block; }
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  letter-spacing: -0.01em;
+  margin: 0 0 0.4em;
+  line-height: 1.15;
+}
+h1 { font-size: clamp(2.2rem, 5vw, 3.6rem); }
+h2 { font-size: clamp(1.6rem, 3.2vw, 2.4rem); }
+h3 { font-size: 1.2rem; }
+p  { margin: 0 0 1em; color: var(--text-muted); }
+
+.app-shell { min-height: 100vh; display: flex; flex-direction: column; }
+.app-main  { flex: 1 1 auto; }
+
+/* ─── Layout containers ─── */
+.container { max-width: 1240px; margin: 0 auto; padding: 0 24px; }
+.section   { padding: 72px 0; }
+@media (max-width: 700px) { .section { padding: 48px 0; } }
+
+/* ─── Buttons ─── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 22px;
+  border-radius: var(--radius);
+  font-weight: 600;
+  font-size: 0.95rem;
+  border: 1px solid var(--border);
+  background: var(--bg-elevated);
+  color: var(--text);
+  transition: transform .15s ease, box-shadow .15s ease, background .2s ease, border-color .2s ease;
+}
+.btn:hover { transform: translateY(-1px); }
+.btn-primary {
+  background: var(--gradient-1);
+  border: 0;
+  color: white;
+  box-shadow: var(--shadow-glow);
+}
+.btn-primary:hover { box-shadow: 0 0 38px rgba(124, 92, 255, 0.55); }
+.btn-ghost { background: transparent; }
+.btn-sm { padding: 8px 14px; font-size: 0.85rem; }
+
+/* ─── Card ─── */
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-md);
+}
+
+/* ─── Form inputs ─── */
+input, select, textarea {
+  width: 100%;
+  font-family: inherit;
+  font-size: 0.95rem;
+  padding: 12px 14px;
+  background: var(--bg-elevated);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  outline: none;
+  transition: border-color .15s ease, box-shadow .15s ease;
+}
+input:focus, select:focus, textarea:focus {
+  border-color: var(--neon);
+  box-shadow: 0 0 0 3px rgba(124, 92, 255, 0.18);
+}
+label { font-size: 0.85rem; color: var(--text-muted); display: block; margin-bottom: 6px; }
+
+/* ─── Chip ─── */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  background: rgba(124, 92, 255, 0.12);
+  color: var(--neon);
+  border: 1px solid rgba(124, 92, 255, 0.3);
+}
+.chip.green { background: rgba(35, 211, 164, 0.12); color: var(--neon-2); border-color: rgba(35, 211, 164, 0.3); }
+.chip.pink  { background: rgba(255, 92, 171, 0.12); color: var(--neon-3); border-color: rgba(255, 92, 171, 0.3); }
+
+/* ─── Animations ─── */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes pulseGlow {
+  0%, 100% { box-shadow: 0 0 24px rgba(124, 92, 255, 0.35); }
+  50%      { box-shadow: 0 0 38px rgba(124, 92, 255, 0.65); }
+}
+.fade-up { animation: fadeUp .55s ease both; }
+
+/* ─── Skeleton loader ─── */
+.skeleton {
+  background: linear-gradient(90deg, var(--bg-elevated) 0%, #232938 50%, var(--bg-elevated) 100%);
+  background-size: 200% 100%;
+  animation: skeleton 1.4s infinite;
+  border-radius: var(--radius-sm);
+}
+@keyframes skeleton { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+/* ─── Scroll bar (webkit) ─── */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 8px; }
+::-webkit-scrollbar-thumb:hover { background: #2c3447; }
