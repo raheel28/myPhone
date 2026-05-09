@@ -38,7 +38,19 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 // ── Security & infra middleware ──
-app.use(helmet());
+app.use(
+  helmet({
+    contentSecurityPolicy: {
+      // Keep helmet's defaults but loosen img-src so we can render the
+      // Unsplash phone photos returned by imageResolver.js.
+      directives: {
+        'img-src': ["'self'", 'data:', 'https:'],
+      },
+    },
+    // Allow other origins (Unsplash) to fetch our images / responses too.
+    crossOriginResourcePolicy: { policy: 'cross-origin' },
+  })
+);
 app.use(compression());
 app.use(express.json({ limit: '1mb' }));
 app.use(express.urlencoded({ extended: true }));
