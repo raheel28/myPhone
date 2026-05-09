@@ -9,6 +9,7 @@ import morgan from 'morgan';
 import compression from 'compression';
 import rateLimit from 'express-rate-limit';
 import path from 'node:path';
+import fs from 'node:fs';
 import { fileURLToPath } from 'node:url';
 
 import { connectDB } from './config/db.js';
@@ -85,10 +86,34 @@ app.use('/api/branches', branchRoutes);
 // Static assets (e.g. /assets/index-abc.js) are served directly; any other
 // non-API path falls through to index.html so React Router handles it.
 if (process.env.NODE_ENV === 'production') {
-  const clientDist = path.resolve(__dirname, '../../client/dist');
+  // Try a couple of plausible locations so we don't silently 500 if the
+  // build output landed somewhere unexpected on the platform.
+  const candidates = [
+    path.resolve(__dirname, '../../client/dist'),
+    path.resolve(process.cwd(), 'client/dist'),
+    path.resolve(process.cwd(), '../client/dist'),
+  ];
+  const clientDist = candidates.find((c) => fs.existsSync(path.join(c, 'index.html'))) || candidates[0];
+  console.log('[static] candidates:', candidates);
+  console.log('[static] using clientDist:', clientDist);
+  console.log('[static] dist exists:', fs.existsSync(clientDist));
+  console.log('[static] index.html exists:', fs.existsSync(path.join(clientDist, 'index.html')));
+  try {
+    const assetsDir = path.join(clientDist, 'assets');
+    if (fs.existsSync(assetsDir)) {
+      console.log('[static] /assets contents (first 5):', fs.readdirSync(assetsDir).slice(0, 5));
+    } else {
+      console.log('[static] /assets folder MISSING at', assetsDir);
+    }
+  } catch (e) { console.log('[static] readdir error:', e.message); }
+
   app.use(express.static(clientDist));
   app.get('*', (req, res, next) => {
     if (req.path.startsWith('/api/')) return next();
+    // Only serve index.html for navigation requests (HTML-accepting); for
+    // missing assets, let the 404 handler return a real 404 instead of HTML.
+    if (!req.accepts('html')) return next();
+    if (/\.[a-zA-Z0-9]+$/.test(req.path)) return next(); // looks like a file, not a route
     res.sendFile(path.join(clientDist, 'index.html'));
   });
 }
